@@ -1,0 +1,13 @@
+{
+  "buildCommand": "rm -rf node_modules && npm install && npm run build",
+  "outputDirectory": "build"
+}
+{
+  "build": {
+    "env": {
+      "CI": "false"
+    }
+  },
+  "buildCommand": "npm ci && npm run build",
+  "outputDirectory": "build"
+}
