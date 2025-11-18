@@ -1,7 +1,7 @@
 const resumeData = {
-  name: "Renesh Sharma",
+  name: "Kuntal Thakur",
   location: "Pune, India",
-  email: "renesh.r.sharma@gmail.com",
+  email: "darshthakur620@gmail.com",
   github: "https://github.com",
   linkedin: "https://linkedin.com",
   summary:
@@ -9,8 +9,8 @@ const resumeData = {
   education: {
     institute: "Pimpri Chinchwad University",
     degree: "B.Tech | Computer Science Engineering",
-    minors: "Psychology",
-    gpa: "8.05 / 10",
+    minors: "Entrepreneurship",
+    gpa: "7.5 / 10",
     focus: "Natural Language Processing",
     year: "2023 - 2027"
   },
